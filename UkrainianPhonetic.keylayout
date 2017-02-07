@@ -1,9 +1,9 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Russian - Phonetic" -->
-<!--Last edited by Ukelele version 3.2.1.161 on 2017-02-07 at 11:24 (GMT+2)-->
+<!--Last edited by Ukelele version 3.2.1.161 on 2017-02-07 at 12:21 (GMT+2)-->
 <!--Created by Ukelele version 2.2.8 on 2014-06-11 at 10:52 (GMT+3)-->
-<keyboard group="126" id="-4429" name="Ukrainian - Phonetic" maxout="1">
+<keyboard group="126" id="-7677" name="Ukrainian - Phonetic" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
 	</layouts>
@@ -180,11 +180,11 @@
 			<key code="15" output="Р"/>
 			<key code="16" output="И"/>
 			<key code="17" output="Т"/>
-			<key code="18" output="1"/>
-			<key code="19" output="@"/>
-			<key code="20" output="№"/>
-			<key code="21" output="$"/>
-			<key code="22" output="^"/>
+			<key code="18" output="!"/>
+			<key code="19" output="&#x0022;"/>
+			<key code="20" output="@"/>
+			<key code="21" output=";"/>
+			<key code="22" output=":"/>
 			<key code="23" output="%"/>
 			<key code="24" output="Ї"/>
 			<key code="25" output="("/>
@@ -292,7 +292,7 @@
 			<key code="9" output="√"/>
 			<!-- gap, 10 -->
 			<key code="11" output="№"/>
-			<key code="12" output="¬"/>
+			<key code="12" output="э"/>
 			<key code="13" output="щ"/>
 			<key code="14" output="ё"/>
 			<key code="15" output="®"/>
@@ -304,7 +304,7 @@
 			<key code="21" output="ґ"/>
 			<key code="22" output="§"/>
 			<key code="23" output="∞"/>
-			<key code="24" output="="/>
+			<key code="24" output="ъ"/>
 			<key code="25" output="["/>
 			<key code="26" output="¶"/>
 			<key code="27" output="–"/>
@@ -314,7 +314,7 @@
 			<key code="31" output="«"/>
 			<key code="32" output="ў"/>
 			<key code="33" output="“"/>
-			<key code="34" output="і"/>
+			<key code="34" output="ы"/>
 			<key code="35" output="»"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="љ"/>
@@ -406,11 +406,12 @@
 			<key code="5" output="Ѓ"/>
 			<key code="6" output="Џ"/>
 			<!-- gap, 7 -->
+			<key code="7" output=""/>
 			<key code="8" output="©"/>
 			<key code="9" output="†"/>
 			<!-- gap, 10 -->
 			<key code="11" output="№"/>
-			<key code="12" output="±"/>
+			<key code="12" output="Э"/>
 			<key code="13" output="Щ"/>
 			<key code="14" output="Ё"/>
 			<key code="15" output="®"/>
@@ -422,7 +423,7 @@
 			<key code="21" output="Ґ"/>
 			<key code="22" output="&#x0026;"/>
 			<key code="23" output="™"/>
-			<key code="24" output="+"/>
+			<key code="24" output="Ъ"/>
 			<key code="25" output="{"/>
 			<key code="26" output="№"/>
 			<key code="27" output="—"/>
@@ -432,7 +433,7 @@
 			<key code="31" output="‘"/>
 			<key code="32" output="Ў"/>
 			<key code="33" output="”"/>
-			<key code="34" output="І"/>
+			<key code="34" output="Ы"/>
 			<key code="35" output="’"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="Љ"/>
