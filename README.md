@@ -15,7 +15,11 @@ It should be self-explanatory. Just a keyboard layout for those who don't have c
 ###Additional characters
 
 With this layout you can also input apostrophe and Russian letters. You just need to hold the `Option` key (`⌥`):
+
 `⌥'` => `’`
+
 `⌥q` => `э`
+
 `⌥=` => `ъ`
+
 `⌥і` => `ы`
