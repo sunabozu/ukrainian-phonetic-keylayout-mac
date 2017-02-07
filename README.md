@@ -12,3 +12,10 @@ It should be self-explanatory. Just a keyboard layout for those who don't have c
 
 ![preview](https://raw.githubusercontent.com/sunabozu/ukrainian-phonetic-keylayout-mac/master/Screen%20Shot%202017-02-07%20at%2011.36.22.png)
 
+###Additional characters
+
+With this layout you can also input apostrophe and Russian letters. You just need to hold the `Option` key (`⌥`):
+`⌥'` => `’`
+`⌥q` => `э`
+`⌥=` => `ъ`
+`⌥і` => `ы`
