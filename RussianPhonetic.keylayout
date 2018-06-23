@@ -3,7 +3,7 @@
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Russian - Phonetic" -->
 <!--Last edited by Ukelele version 3.2.1.161 on 2017-06-12 at 21:21 (GMT+3)-->
 <!--Created by Ukelele version 2.2.8 on 2014-06-11 at 10:52 (GMT+3)-->
-<keyboard group="126" id="-12386" name="Russian - Phonetic" maxout="1">
+<keyboard group="7" id="19456" name="Russian - Phonetic" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
 	</layouts>
