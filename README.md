@@ -4,7 +4,7 @@ It should be self-explanatory. Just a keyboard layout for those who don't have c
 
 ###Installation
 
-1. Copy `UkrainianPhonetic.keylayout` and `UkrainianPhonetic.icns` files to `/Library/Keyboard Layouts`
+1. Unzip `UkrainianRussianPhoneticCustom.zip` and copy it to `/Library/Keyboard Layouts`
 2. Open keyboard preferences
 3. Go to the `Input Sources` tab
 4. Click the `+` button
