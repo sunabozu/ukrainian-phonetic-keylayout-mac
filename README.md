@@ -4,11 +4,11 @@ It should be self-explanatory. Just a keyboard layout for those who don't have c
 
 ###Installation
 
-1. Unzip `UkrainianRussianPhoneticCustom.zip` and copy it to `/Library/Keyboard Layouts`
+1. Unzip `UkrainianRussianPhoneticCustom.zip` and copy it to `~/Library/Keyboard Layouts`
 2. Open keyboard preferences
 3. Go to the `Input Sources` tab
 4. Click the `+` button
-5. Choose `Ukrainian => Ukrainian - Phonetic`
+5. Choose `Others => Ukrainian - Phonetic`
 
 ![preview](https://raw.githubusercontent.com/sunabozu/ukrainian-phonetic-keylayout-mac/master/Screen%20Shot%202017-02-07%20at%2011.36.22.png)
 
